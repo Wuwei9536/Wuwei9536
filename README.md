@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Wuwei9536.Wuwei9536)
+
+一个制作gif动图的微信小程序，可用于公众号配图，微信表情制作等。
+
+![gif工坊二维码](https://user-images.githubusercontent.com/32845405/127994467-585fdbc4-d747-4687-8320-769ba692ce68.jpg)
+
